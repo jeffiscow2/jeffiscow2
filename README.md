@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey Yall! 👋
 
-<!--
-**jeffiscow2/jeffiscow2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my B.S. in Software Engineer
+- 🌱 I’m currently learning Python and Go
+- 👯 I’m looking to collaborate on any open source projects involving Linux
+- 🤔 I’m looking for help with how to actually get started working on projects in that space. (school seems to teach coding but now how to collab lol)
+- 📫 How to reach me: jeffiscow@jeffiscow.xyz, Mastadon or Discord.
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/8ac8f120-075a-412d-86eb-685f5330c8dc/thumbnail" >
+</p>
