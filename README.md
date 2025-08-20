@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my B.S. in Software Engineer
 - 🌱 I’m currently learning Python and Go
 - 👯 I’m looking to collaborate on any open source projects involving Linux
-- 🤔 I’m looking for help with how to actually get started working on projects in that space. (school seems to teach coding but now how to collab lol)
+- 🤔 I’m looking for hel with how to actually get started working on projects in that space. (school seems to teach coding but now how to collab lol)
 - 📫 How to reach me: jeffiscow@jeffiscow.xyz, Mastadon or Discord.
 - 😄 Pronouns: He/Him
 
